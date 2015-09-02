@@ -27,9 +27,9 @@
 #define NUMCALCS 11
 
 #define MAXNUMCALCS 12
-#define MAXNUMNTS 200
-#define MAXNUMNTTS 200
-#define MAXNUMTS 200
+#define MAXNUMNTS 250
+#define MAXNUMNTTS 250
+#define MAXNUMTS 250
 
 #define RCALC 0
 #define HCALC 1
